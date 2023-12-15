@@ -1,5 +1,5 @@
 import * as React from "react";
-import SignupForm from "./components/signupForm";
+import SignupForm from "./components/SignupForm";
 import Navbar from "./components/Navbar";
 
 export const Head = () => <title>Home Page</title>;
